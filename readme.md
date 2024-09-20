@@ -1,6 +1,6 @@
 # Github live now
 
-(Click Here)[ashish-gupta7.github.io/thomas-vance/]
+(Click Here)[https://ashish-gupta7.github.io/thomas-vance/]
 
 # website
 
